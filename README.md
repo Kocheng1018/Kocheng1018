@@ -34,10 +34,3 @@ Kocheng is a software developer in Taiwan, like to discuess the topic of IT. Pro
 <a href="https://www.github.com/Kocheng1018" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/kocheng-hsiao-2060141b2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Kocheng1018"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kocheng1018&stroke=facc15&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=facc15&currStreakLabel=3382ed&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="https://github.com/Kocheng1018" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocheng1018&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
